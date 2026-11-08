@@ -1,0 +1,20 @@
+# Biên dịch C / C++
+*.exe
+*.o
+*.obj
+*.out
+
+# Tệp dữ liệu nhị phân sinh ra khi chạy chương trình
+*.dat
+*.csv
+
+# IDE / Trình soạn thảo
+.vscode/
+.idea/
+*.layout
+*.depend
+
+# Tệp tạm Microsoft Office
+~$*.docx
+Thumbs.db
+Desktop.ini
